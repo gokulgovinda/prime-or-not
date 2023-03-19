@@ -19,6 +19,5 @@ public class OddEven {
          else{
             System.out.println("n is not prime");
         }
-        
     }
 }
